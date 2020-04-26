@@ -1,13 +1,13 @@
 {
   "name": "ohcardless",
-  "version": "0.0.1",
-  "private": true,
+  "version": "0.0.3",
+  "private": false,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
     "dotenv": "*",
     "express": "3.3.4",
-    "sendgrid": "0.4.4"
+    "sendgrid": "1.7.0"
   }
 }

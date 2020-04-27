@@ -8,6 +8,6 @@
   "dependencies": {
     "dotenv": "*",
     "express": "3.3.4",
-    "sendgrid": "3.0.0"
+    "sendgrid": "3.0.11"
   }
 }
